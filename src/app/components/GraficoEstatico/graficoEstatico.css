@@ -1,0 +1,21 @@
+#section-grafico{
+    width: 65vw;
+}
+
+.grafico { 
+    max-width: 900px !important;
+}
+
+.button-container{
+    margin: 15px;
+
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.button-container Button, a{
+    height: 50px;
+
+    text-align: center;
+}
